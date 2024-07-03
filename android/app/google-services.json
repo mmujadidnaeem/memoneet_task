@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "836810994396",
+    "project_id": "mcqs-caf91",
+    "storage_bucket": "mcqs-caf91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836810994396:android:a0a1f193af52121352fa19",
+        "android_client_info": {
+          "package_name": "com.example.memoneet_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc1p6pvn0c2EyY7PuiuBQ269aU8lsGTlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
