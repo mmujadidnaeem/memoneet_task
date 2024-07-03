@@ -12,9 +12,9 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the Repository** (if you haven't already):
    ```bash
-   git clone <repository_url>
+   git clone [<repository_url>](https://github.com/mmujadidnaeem/memoneet_task.git    )
    
-   cd <project_directory>
+   cd memoneet_task
 
    flutter pub get
 
